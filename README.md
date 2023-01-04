@@ -1,4 +1,4 @@
-A Simple Frontend Project 
+A Simple Frontend Web Project 
  Html 
  Css 
  Js
