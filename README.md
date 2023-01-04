@@ -1,1 +1,1 @@
-A simple Frontend Project
+A Simple Frontend Web Development Project
